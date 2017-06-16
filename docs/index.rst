@@ -11,6 +11,11 @@ Welcome to readthedocs_test's documentation!
    :caption: Contents:
 
 
+Second level index
+==================
+
+* some info
+* additional info
 
 Indices and tables
 ==================
